@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App{
+  padding: 10px;
+  margin: 10px;
+}
+.display-users{
+  list-style-type: none;
+}
+.display-users li{
+  text-align: left;
+  list-style-type: none;
+  display: block;
+}
